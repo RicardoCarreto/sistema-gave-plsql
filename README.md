@@ -1,6 +1,6 @@
 # Sistema de Gestión GAVE - Base de Datos y Procedimientos PL/SQL
 
-El presente trabajo tiene como finalidad el desarrollo de un sistema de gestión para una empresa ficticia llamada **GAVE**, dedicada al alquiler de vehículos eléctricos —bicicletas y scooters— en la ciudad de Nuevo León. Este sistema está implementado en **Oracle APEX**, utilizando programación en **SQL** para controlar la operación de clientes, vehículos, estaciones de carga y el proceso de alquiler.
+El presente trabajo tiene como finalidad el desarrollo de un sistema de gestión para una empresa ficticia llamada **GAVE**, dedicada al alquiler de vehículos eléctricos —bicicletas y scooters— en la ciudad de Nuevo León. Este sistema está implementado en **Oracle APEX**, utilizando programación en **PL/SQL** para controlar la operación de clientes, vehículos, estaciones de carga y el proceso de alquiler.
 
 ## Contenido del repositorio
 
